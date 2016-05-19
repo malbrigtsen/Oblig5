@@ -1,0 +1,7 @@
+a) Programmet ser ut som en hvit boks som inneholder et rektangel hvor
+bredden er større enn høyden, og med en gitt startposisjon.
+Selve boksen er også bredere enn den er høy, og har en tittel som heter "What!?"
+Rektanglet har en hvit fill(hvit inn) med en svart stroke(ramme) rundt.
+
+b) Rektanglet r er linket til eventet setOnMouseDragged som henter
+nåværende posisjon og lar en endre den ved hjelp av musebevegelse.
